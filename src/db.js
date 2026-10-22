@@ -6,4 +6,4 @@ const connection = mysql.createConnection({
     database: 'registros_climaticos'
 });
 
-module.exports = connection;
+module.exports =connection;
